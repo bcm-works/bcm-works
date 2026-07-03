@@ -8,7 +8,7 @@
 
 🏢 LinkedIn: [brendanmurty](https://www.linkedin.com/in/brendanmurty)
 
-⚡ View the source code of my website: [brendanmurty/bcm](https://github.com/brendanmurty/bcm)
+⚡ View the source code of my website: [code.bcm.works/bcm/bcm](https://code.bcm.works/bcm/bcm)
 
 ⚡ View my dotfiles: [brendanmurty/dotfiles](https://github.com/brendanmurty/dotfiles)
 
