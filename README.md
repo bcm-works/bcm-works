@@ -12,6 +12,8 @@
 
 ⚡ View my dotfiles: [code.bcm.works/bcm/dotfiles](https://code.bcm.works/bcm/dotfiles)
 
+⚡ View more of my public open-source projects: [code.bcm.works](https://code.bcm.works/)
+
 📃 Read my blog post: [Thoughts about AI Code Generation tools](https://bcm.works/posts/20260616_ai-code-gen/)
 
 📃 Read my blog post: [My goals as an Engineering Manager](https://bcm.works/posts/20240630_manager-goals/)
