@@ -10,7 +10,7 @@
 
 ⚡ View the source code of my website: [code.bcm.works/bcm/bcm](https://code.bcm.works/bcm/bcm)
 
-⚡ View my dotfiles: [brendanmurty/dotfiles](https://github.com/brendanmurty/dotfiles)
+⚡ View my dotfiles: [code.bcm.works/bcm/dotfiles](https://code.bcm.works/bcm/dotfiles)
 
 📃 Read my blog post: [Thoughts about AI Code Generation tools](https://bcm.works/posts/20260616_ai-code-gen/)
 
