@@ -1,6 +1,4 @@
-👋 I specialise in building and actively leading efficient software teams to architect scalable, well-defined technical solutions for organisations.
-
-✨ I'm currently looking for a new role as a full-time Technical Lead, Engineering Manager or Senior Software Engineer in an established company.
+👋 Hello, my name is Brendan.
 
 🌐 Website: [bcm.works](https://bcm.works)
 
@@ -8,9 +6,9 @@
 
 🏢 LinkedIn: [bcm-works](https://www.linkedin.com/in/bcm-works/)
 
-⚡ View the source code of my website: [bcm-works/site](https://github.com/bcm-works/site)
+⚡ Website code: [bcm-works/site](https://github.com/bcm-works/site)
 
-⚡ View my dotfiles: [bcm-works/dotfiles](https://github.com/bcm-works/dotfiles)
+⚡ Dotfiles: [bcm-works/dotfiles](https://github.com/bcm-works/dotfiles)
 
 📃 Read my blog post: [Thoughts about AI Code Generation tools](https://bcm.works/posts/20260616_ai-code-gen/)
 
