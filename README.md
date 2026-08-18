@@ -1,6 +1,6 @@
 👋 Hello, my name is Brendan.
 
-📢 I specialise in building and actively leading efficient software teams to architect scalable, well-defined technical solutions for organisations.
+📢 I specialise in actively leading software teams to build scalable, well-defined technical solutions. 
 
 🌐 Website: [bcm.works](https://bcm.works)
 
