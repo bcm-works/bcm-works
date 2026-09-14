@@ -1,4 +1,4 @@
-👋 Hello, my name is Brendan.
+👋 Hello, my name is Brendan Murty.
 
 📢 I specialise in actively leading software teams to build scalable, well-defined technical solutions. 
 
