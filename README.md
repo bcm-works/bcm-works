@@ -8,12 +8,12 @@
 
 🏢 LinkedIn: [bcm-works](https://www.linkedin.com/in/bcm-works/)
 
-🔧 [Website code](https://github.com/bcm-works/site)
+🔧 Repo: [Website](https://github.com/bcm-works/site)
 
-🔧 [Dotfiles](https://github.com/bcm-works/dotfiles)
+🔧 Repo: [Dotfiles](https://github.com/bcm-works/dotfiles)
 
-📃 [Reflections on AI Code Generation](https://bcm.works/posts/20260616_ai-code-gen/)
+📃 Post: [Reflections on AI Code Generation](https://bcm.works/posts/20260616_ai-code-gen/)
 
-📃 [Goals as an Engineering Manager](https://bcm.works/posts/20240630_manager-goals/)
+📃 Post: [Goals as an Engineering Manager](https://bcm.works/posts/20240630_manager-goals/)
 
-📃 [Fixing bugs without losing your mind](https://bcm.works/posts/20191116_fixing-bugs/)
+📃 Post: [Fixing bugs without losing your mind](https://bcm.works/posts/20191116_fixing-bugs/)
